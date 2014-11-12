@@ -1,0 +1,3 @@
+jr_blog_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: JrBlogBundle:Default:index }
